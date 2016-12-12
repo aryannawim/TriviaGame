@@ -1,0 +1,41 @@
+body{
+
+    background-image: url(background.jpg);
+    
+}
+
+h1{
+    float: left; 
+    font-family: Impact, Charcoal, sans-serif;
+    font-size: 389%;
+}
+
+button{
+
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: cursive;
+    font-size: 85%; 
+    display: inline-block;
+    float: right;
+    padding: 10px;
+    border-radius: 75%;
+    
+
+
+
+
+}
+
+
+.onclickchoice{
+
+    font-family: fantasy;
+}
+
+.timer{
+
+	font-family: fantasy;
+}
+
